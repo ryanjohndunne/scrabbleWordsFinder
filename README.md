@@ -21,6 +21,9 @@ Finds the longest group of anagrams in a given dictionary and returns all words 
 
 # How to run
 have python 3 installed
+
 python scrabble.py
+
 enter the values you want to use as the query. 
+
 Type "***" no quotations to exit the program.
